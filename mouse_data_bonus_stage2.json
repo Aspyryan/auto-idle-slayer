@@ -1,0 +1,990 @@
+[
+    {
+        "event": "press_duration",
+        "value": 0.6527152061462402
+    },
+    {
+        "event": "delay",
+        "value": 0.21062278747558594
+    },
+    {
+        "event": "press_duration",
+        "value": 0.059642791748046875
+    },
+    {
+        "event": "delay",
+        "value": 0.6465632915496826
+    },
+    {
+        "event": "press_duration",
+        "value": 0.07424330711364746
+    },
+    {
+        "event": "delay",
+        "value": 0.7211744785308838
+    },
+    {
+        "event": "press_duration",
+        "value": 0.6032252311706543
+    },
+    {
+        "event": "delay",
+        "value": 0.36664628982543945
+    },
+    {
+        "event": "press_duration",
+        "value": 0.08490467071533203
+    },
+    {
+        "event": "delay",
+        "value": 0.6697673797607422
+    },
+    {
+        "event": "press_duration",
+        "value": 0.10087800025939941
+    },
+    {
+        "event": "delay",
+        "value": 0.9290966987609863
+    },
+    {
+        "event": "press_duration",
+        "value": 0.6102480888366699
+    },
+    {
+        "event": "delay",
+        "value": 1.9222846031188965
+    },
+    {
+        "event": "press_duration",
+        "value": 0.189788818359375
+    },
+    {
+        "event": "delay",
+        "value": 0.5465726852416992
+    },
+    {
+        "event": "press_duration",
+        "value": 0.06210803985595703
+    },
+    {
+        "event": "delay",
+        "value": 0.6418697834014893
+    },
+    {
+        "event": "press_duration",
+        "value": 0.046205759048461914
+    },
+    {
+        "event": "delay",
+        "value": 0.7770411968231201
+    },
+    {
+        "event": "press_duration",
+        "value": 0.631716251373291
+    },
+    {
+        "event": "delay",
+        "value": 0.3512105941772461
+    },
+    {
+        "event": "press_duration",
+        "value": 0.06989407539367676
+    },
+    {
+        "event": "delay",
+        "value": 0.6886520385742188
+    },
+    {
+        "event": "press_duration",
+        "value": 0.08327651023864746
+    },
+    {
+        "event": "delay",
+        "value": 0.9260015487670898
+    },
+    {
+        "event": "press_duration",
+        "value": 0.6741588115692139
+    },
+    {
+        "event": "delay",
+        "value": 1.8490185737609863
+    },
+    {
+        "event": "press_duration",
+        "value": 0.22613143920898438
+    },
+    {
+        "event": "delay",
+        "value": 0.5493204593658447
+    },
+    {
+        "event": "press_duration",
+        "value": 0.07796692848205566
+    },
+    {
+        "event": "delay",
+        "value": 0.6308810710906982
+    },
+    {
+        "event": "press_duration",
+        "value": 0.07825088500976562
+    },
+    {
+        "event": "delay",
+        "value": 0.6974475383758545
+    },
+    {
+        "event": "press_duration",
+        "value": 0.09543013572692871
+    },
+    {
+        "event": "delay",
+        "value": 0.8569552898406982
+    },
+    {
+        "event": "press_duration",
+        "value": 0.4966850280761719
+    },
+    {
+        "event": "delay",
+        "value": 0.3778202533721924
+    },
+    {
+        "event": "press_duration",
+        "value": 0.05519747734069824
+    },
+    {
+        "event": "delay",
+        "value": 1.0984089374542236
+    },
+    {
+        "event": "press_duration",
+        "value": 0.2529563903808594
+    },
+    {
+        "event": "delay",
+        "value": 0.5889918804168701
+    },
+    {
+        "event": "press_duration",
+        "value": 0.12928247451782227
+    },
+    {
+        "event": "delay",
+        "value": 0.6853384971618652
+    },
+    {
+        "event": "press_duration",
+        "value": 0.07692217826843262
+    },
+    {
+        "event": "delay",
+        "value": 13.445995807647705
+    },
+    {
+        "event": "press_duration",
+        "value": 0.06524062156677246
+    },
+    {
+        "event": "delay",
+        "value": 0.2544281482696533
+    },
+    {
+        "event": "press_duration",
+        "value": 0.09651803970336914
+    },
+    {
+        "event": "delay",
+        "value": 0.5071589946746826
+    },
+    {
+        "event": "press_duration",
+        "value": 0.09904122352600098
+    },
+    {
+        "event": "delay",
+        "value": 0.29882192611694336
+    },
+    {
+        "event": "press_duration",
+        "value": 0.10319662094116211
+    },
+    {
+        "event": "delay",
+        "value": 0.1717236042022705
+    },
+    {
+        "event": "press_duration",
+        "value": 0.0841820240020752
+    },
+    {
+        "event": "delay",
+        "value": 0.3655538558959961
+    },
+    {
+        "event": "press_duration",
+        "value": 0.1362476348876953
+    },
+    {
+        "event": "delay",
+        "value": 0.6910316944122314
+    },
+    {
+        "event": "press_duration",
+        "value": 0.06524920463562012
+    },
+    {
+        "event": "delay",
+        "value": 1.0445597171783447
+    },
+    {
+        "event": "press_duration",
+        "value": 0.08303546905517578
+    },
+    {
+        "event": "delay",
+        "value": 0.2882986068725586
+    },
+    {
+        "event": "press_duration",
+        "value": 0.08241868019104004
+    },
+    {
+        "event": "delay",
+        "value": 0.6295475959777832
+    },
+    {
+        "event": "press_duration",
+        "value": 0.1380002498626709
+    },
+    {
+        "event": "delay",
+        "value": 1.3690056800842285
+    },
+    {
+        "event": "press_duration",
+        "value": 0.07423663139343262
+    },
+    {
+        "event": "delay",
+        "value": 0.48628783226013184
+    },
+    {
+        "event": "press_duration",
+        "value": 0.13181424140930176
+    },
+    {
+        "event": "delay",
+        "value": 0.546898603439331
+    },
+    {
+        "event": "press_duration",
+        "value": 0.11640667915344238
+    },
+    {
+        "event": "delay",
+        "value": 1.0174839496612549
+    },
+    {
+        "event": "press_duration",
+        "value": 0.056693077087402344
+    },
+    {
+        "event": "delay",
+        "value": 0.2798802852630615
+    },
+    {
+        "event": "press_duration",
+        "value": 0.06127190589904785
+    },
+    {
+        "event": "delay",
+        "value": 0.6745278835296631
+    },
+    {
+        "event": "press_duration",
+        "value": 0.08639383316040039
+    },
+    {
+        "event": "delay",
+        "value": 1.2946298122406006
+    },
+    {
+        "event": "press_duration",
+        "value": 0.06457996368408203
+    },
+    {
+        "event": "delay",
+        "value": 0.7435107231140137
+    },
+    {
+        "event": "press_duration",
+        "value": 0.06425094604492188
+    },
+    {
+        "event": "delay",
+        "value": 0.9910931587219238
+    },
+    {
+        "event": "press_duration",
+        "value": 0.07054901123046875
+    },
+    {
+        "event": "delay",
+        "value": 0.27320098876953125
+    },
+    {
+        "event": "press_duration",
+        "value": 0.08548545837402344
+    },
+    {
+        "event": "delay",
+        "value": 0.6321604251861572
+    },
+    {
+        "event": "press_duration",
+        "value": 0.07563591003417969
+    },
+    {
+        "event": "delay",
+        "value": 1.1120142936706543
+    },
+    {
+        "event": "press_duration",
+        "value": 0.13559985160827637
+    },
+    {
+        "event": "delay",
+        "value": 0.544776201248169
+    },
+    {
+        "event": "press_duration",
+        "value": 0.4262421131134033
+    },
+    {
+        "event": "delay",
+        "value": 0.569974422454834
+    },
+    {
+        "event": "press_duration",
+        "value": 0.0934748649597168
+    },
+    {
+        "event": "delay",
+        "value": 1.151909351348877
+    },
+    {
+        "event": "press_duration",
+        "value": 0.08803892135620117
+    },
+    {
+        "event": "delay",
+        "value": 0.5454344749450684
+    },
+    {
+        "event": "press_duration",
+        "value": 0.09615015983581543
+    },
+    {
+        "event": "delay",
+        "value": 0.3073086738586426
+    },
+    {
+        "event": "press_duration",
+        "value": 0.0856013298034668
+    },
+    {
+        "event": "delay",
+        "value": 2.419499397277832
+    },
+    {
+        "event": "press_duration",
+        "value": 0.060358285903930664
+    },
+    {
+        "event": "delay",
+        "value": 0.5214178562164307
+    },
+    {
+        "event": "press_duration",
+        "value": 0.08629441261291504
+    },
+    {
+        "event": "delay",
+        "value": 2.3851194381713867
+    },
+    {
+        "event": "press_duration",
+        "value": 0.07840895652770996
+    },
+    {
+        "event": "delay",
+        "value": 0.5437588691711426
+    },
+    {
+        "event": "press_duration",
+        "value": 0.09614729881286621
+    },
+    {
+        "event": "delay",
+        "value": 7.913348913192749
+    },
+    {
+        "event": "press_duration",
+        "value": 0.07991600036621094
+    },
+    {
+        "event": "delay",
+        "value": 0.858039379119873
+    },
+    {
+        "event": "press_duration",
+        "value": 0.0848536491394043
+    },
+    {
+        "event": "delay",
+        "value": 0.06419062614440918
+    },
+    {
+        "event": "press_duration",
+        "value": 0.08229947090148926
+    },
+    {
+        "event": "delay",
+        "value": 0.07304692268371582
+    },
+    {
+        "event": "press_duration",
+        "value": 0.0637967586517334
+    },
+    {
+        "event": "delay",
+        "value": 0.07498955726623535
+    },
+    {
+        "event": "press_duration",
+        "value": 0.08228540420532227
+    },
+    {
+        "event": "delay",
+        "value": 0.8761298656463623
+    },
+    {
+        "event": "press_duration",
+        "value": 0.03857851028442383
+    },
+    {
+        "event": "delay",
+        "value": 0.452869176864624
+    },
+    {
+        "event": "press_duration",
+        "value": 0.04019284248352051
+    },
+    {
+        "event": "delay",
+        "value": 0.7528457641601562
+    },
+    {
+        "event": "press_duration",
+        "value": 0.07526731491088867
+    },
+    {
+        "event": "delay",
+        "value": 0.977989673614502
+    },
+    {
+        "event": "press_duration",
+        "value": 0.06911516189575195
+    },
+    {
+        "event": "delay",
+        "value": 0.07918787002563477
+    },
+    {
+        "event": "press_duration",
+        "value": 0.06762552261352539
+    },
+    {
+        "event": "delay",
+        "value": 0.08394265174865723
+    },
+    {
+        "event": "press_duration",
+        "value": 0.06671309471130371
+    },
+    {
+        "event": "delay",
+        "value": 0.08421444892883301
+    },
+    {
+        "event": "press_duration",
+        "value": 0.07024979591369629
+    },
+    {
+        "event": "delay",
+        "value": 0.7036066055297852
+    },
+    {
+        "event": "press_duration",
+        "value": 0.11616802215576172
+    },
+    {
+        "event": "delay",
+        "value": 0.8515536785125732
+    },
+    {
+        "event": "press_duration",
+        "value": 0.09160590171813965
+    },
+    {
+        "event": "delay",
+        "value": 0.09375190734863281
+    },
+    {
+        "event": "press_duration",
+        "value": 0.07120704650878906
+    },
+    {
+        "event": "delay",
+        "value": 0.09326577186584473
+    },
+    {
+        "event": "press_duration",
+        "value": 0.06956815719604492
+    },
+    {
+        "event": "delay",
+        "value": 0.10419678688049316
+    },
+    {
+        "event": "press_duration",
+        "value": 0.05162549018859863
+    },
+    {
+        "event": "delay",
+        "value": 0.7811508178710938
+    },
+    {
+        "event": "press_duration",
+        "value": 0.04907989501953125
+    },
+    {
+        "event": "delay",
+        "value": 0.4400367736816406
+    },
+    {
+        "event": "press_duration",
+        "value": 0.03869771957397461
+    },
+    {
+        "event": "delay",
+        "value": 0.643057107925415
+    },
+    {
+        "event": "press_duration",
+        "value": 0.04717707633972168
+    },
+    {
+        "event": "delay",
+        "value": 0.503326416015625
+    },
+    {
+        "event": "press_duration",
+        "value": 0.06401371955871582
+    },
+    {
+        "event": "delay",
+        "value": 0.08123612403869629
+    },
+    {
+        "event": "press_duration",
+        "value": 0.05972909927368164
+    },
+    {
+        "event": "delay",
+        "value": 0.07863354682922363
+    },
+    {
+        "event": "press_duration",
+        "value": 0.07108592987060547
+    },
+    {
+        "event": "delay",
+        "value": 0.3328099250793457
+    },
+    {
+        "event": "press_duration",
+        "value": 0.09725522994995117
+    },
+    {
+        "event": "delay",
+        "value": 1.1828885078430176
+    },
+    {
+        "event": "press_duration",
+        "value": 0.10418319702148438
+    },
+    {
+        "event": "delay",
+        "value": 0.5904452800750732
+    },
+    {
+        "event": "press_duration",
+        "value": 0.08977007865905762
+    },
+    {
+        "event": "delay",
+        "value": 2.6237142086029053
+    },
+    {
+        "event": "press_duration",
+        "value": 0.052927255630493164
+    },
+    {
+        "event": "delay",
+        "value": 0.489809513092041
+    },
+    {
+        "event": "press_duration",
+        "value": 0.08568048477172852
+    },
+    {
+        "event": "delay",
+        "value": 2.331040382385254
+    },
+    {
+        "event": "press_duration",
+        "value": 0.0751042366027832
+    },
+    {
+        "event": "delay",
+        "value": 0.5555567741394043
+    },
+    {
+        "event": "press_duration",
+        "value": 0.1014862060546875
+    },
+    {
+        "event": "delay",
+        "value": 9.043965578079224
+    },
+    {
+        "event": "press_duration",
+        "value": 0.07148361206054688
+    },
+    {
+        "event": "delay",
+        "value": 0.4792771339416504
+    },
+    {
+        "event": "press_duration",
+        "value": 0.043813228607177734
+    },
+    {
+        "event": "delay",
+        "value": 0.665691614151001
+    },
+    {
+        "event": "press_duration",
+        "value": 0.12565875053405762
+    },
+    {
+        "event": "delay",
+        "value": 0.5061078071594238
+    },
+    {
+        "event": "press_duration",
+        "value": 0.04410243034362793
+    },
+    {
+        "event": "delay",
+        "value": 0.8549184799194336
+    },
+    {
+        "event": "press_duration",
+        "value": 0.05592036247253418
+    },
+    {
+        "event": "delay",
+        "value": 0.48606395721435547
+    },
+    {
+        "event": "press_duration",
+        "value": 0.04524588584899902
+    },
+    {
+        "event": "delay",
+        "value": 0.7443957328796387
+    },
+    {
+        "event": "press_duration",
+        "value": 0.08882713317871094
+    },
+    {
+        "event": "delay",
+        "value": 0.4920680522918701
+    },
+    {
+        "event": "press_duration",
+        "value": 0.04165291786193848
+    },
+    {
+        "event": "delay",
+        "value": 0.6560487747192383
+    },
+    {
+        "event": "press_duration",
+        "value": 0.11479616165161133
+    },
+    {
+        "event": "delay",
+        "value": 0.37923264503479004
+    },
+    {
+        "event": "press_duration",
+        "value": 0.052512168884277344
+    },
+    {
+        "event": "delay",
+        "value": 1.0979986190795898
+    },
+    {
+        "event": "press_duration",
+        "value": 0.04358673095703125
+    },
+    {
+        "event": "delay",
+        "value": 0.4676389694213867
+    },
+    {
+        "event": "press_duration",
+        "value": 0.0287168025970459
+    },
+    {
+        "event": "delay",
+        "value": 0.788506031036377
+    },
+    {
+        "event": "press_duration",
+        "value": 0.07105493545532227
+    },
+    {
+        "event": "delay",
+        "value": 0.6838042736053467
+    },
+    {
+        "event": "press_duration",
+        "value": 0.05843234062194824
+    },
+    {
+        "event": "delay",
+        "value": 0.6250441074371338
+    },
+    {
+        "event": "press_duration",
+        "value": 0.12830662727355957
+    },
+    {
+        "event": "delay",
+        "value": 0.17984580993652344
+    },
+    {
+        "event": "press_duration",
+        "value": 0.0803673267364502
+    },
+    {
+        "event": "delay",
+        "value": 0.3555612564086914
+    },
+    {
+        "event": "press_duration",
+        "value": 0.06661415100097656
+    },
+    {
+        "event": "delay",
+        "value": 1.2688965797424316
+    },
+    {
+        "event": "press_duration",
+        "value": 0.06399989128112793
+    },
+    {
+        "event": "delay",
+        "value": 0.49942755699157715
+    },
+    {
+        "event": "press_duration",
+        "value": 0.0369873046875
+    },
+    {
+        "event": "delay",
+        "value": 0.7289986610412598
+    },
+    {
+        "event": "press_duration",
+        "value": 0.06451559066772461
+    },
+    {
+        "event": "delay",
+        "value": 0.5306591987609863
+    },
+    {
+        "event": "press_duration",
+        "value": 0.028454065322875977
+    },
+    {
+        "event": "delay",
+        "value": 0.6524612903594971
+    },
+    {
+        "event": "press_duration",
+        "value": 0.11609721183776855
+    },
+    {
+        "event": "delay",
+        "value": 0.414592981338501
+    },
+    {
+        "event": "press_duration",
+        "value": 0.03376412391662598
+    },
+    {
+        "event": "delay",
+        "value": 1.0437126159667969
+    },
+    {
+        "event": "press_duration",
+        "value": 0.058075666427612305
+    },
+    {
+        "event": "delay",
+        "value": 0.4893677234649658
+    },
+    {
+        "event": "press_duration",
+        "value": 0.051434993743896484
+    },
+    {
+        "event": "delay",
+        "value": 0.733323335647583
+    },
+    {
+        "event": "press_duration",
+        "value": 0.11130785942077637
+    },
+    {
+        "event": "delay",
+        "value": 0.5508801937103271
+    },
+    {
+        "event": "press_duration",
+        "value": 0.035073041915893555
+    },
+    {
+        "event": "delay",
+        "value": 0.6240017414093018
+    },
+    {
+        "event": "press_duration",
+        "value": 0.16598105430603027
+    },
+    {
+        "event": "delay",
+        "value": 0.48289060592651367
+    },
+    {
+        "event": "press_duration",
+        "value": 0.051795244216918945
+    },
+    {
+        "event": "delay",
+        "value": 0.7624964714050293
+    },
+    {
+        "event": "press_duration",
+        "value": 0.07395768165588379
+    },
+    {
+        "event": "delay",
+        "value": 0.6931765079498291
+    },
+    {
+        "event": "press_duration",
+        "value": 0.09771943092346191
+    },
+    {
+        "event": "delay",
+        "value": 0.21086907386779785
+    },
+    {
+        "event": "press_duration",
+        "value": 0.13396787643432617
+    },
+    {
+        "event": "delay",
+        "value": 0.5681517124176025
+    },
+    {
+        "event": "press_duration",
+        "value": 0.11926746368408203
+    },
+    {
+        "event": "delay",
+        "value": 0.7209827899932861
+    },
+    {
+        "event": "press_duration",
+        "value": 0.0871119499206543
+    },
+    {
+        "event": "delay",
+        "value": 2.026887893676758
+    },
+    {
+        "event": "press_duration",
+        "value": 0.07578825950622559
+    },
+    {
+        "event": "delay",
+        "value": 0.5622715950012207
+    },
+    {
+        "event": "press_duration",
+        "value": 0.11704874038696289
+    },
+    {
+        "event": "delay",
+        "value": 2.534818649291992
+    },
+    {
+        "event": "press_duration",
+        "value": 0.0525362491607666
+    },
+    {
+        "event": "delay",
+        "value": 0.4994065761566162
+    },
+    {
+        "event": "press_duration",
+        "value": 0.09645795822143555
+    },
+    {
+        "event": "delay",
+        "value": 3.7311148643493652
+    },
+    {
+        "event": "press_duration",
+        "value": 0.060062408447265625
+    },
+    {
+        "event": "delay",
+        "value": 0.5292530059814453
+    },
+    {
+        "event": "press_duration",
+        "value": 0.08948183059692383
+    }
+]
